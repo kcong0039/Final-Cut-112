@@ -4,3 +4,9 @@ __pycache__/
 *.jpg
 *.mp4
 *.avi
+venv/
+__pycache__/
+*.pyc
+*.jpg
+*.mp4
+*.avi
